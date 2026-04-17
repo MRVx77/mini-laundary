@@ -12,6 +12,14 @@ A full-stack web application for managing laundry orders, tracking customer garm
 
 ---
 
+## Deployement
+
+Vercel for frontend
+Render for backend
+Liven Link: https://mini-laundary.vercel.app/
+
+---
+
 ## Setup Instructions
 
 ### 1. Clone and Install Dependencies
@@ -239,3 +247,4 @@ mini-laundary/
 ## License
 
 ISC
+
